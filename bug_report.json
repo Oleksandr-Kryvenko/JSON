@@ -1,8 +1,10 @@
-{"ID:001",
-"Title:App_crash_after_clicking_on_the_start_button_at_the_header",
-"Severity:critical",
-"priority:high",
-"STP:tap_on_the_start_button_at_the_header",
-"expected_result:launching_of_the_game",
-"actual_result:app_crush",
-"attachments:crash_mp4"}
+{
+  "ID":001,
+  "Title":"App_crash_after_clicking_on_the_start_button_at_the_header",
+  "Severity":"critical",
+  "Priority":"high",
+  "STP":"tap_on_the_start_button_at_the_header",
+  "Expected_result":"launching_of_the_game",
+  "Actual_result":"app_crush",
+  "Attachments":"crash_mp4"
+}
