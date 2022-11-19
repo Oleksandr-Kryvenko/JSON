@@ -1,6 +1,8 @@
-{"skill_1:Postman",
-"skill_2:SQL",
-"skill_3:Git",
-"skill_4:JS",
-"skill_5:Bugreports"
-"skill_6:Checklists"}
+{
+  "skill_1":"Postman",
+  "skill_2":"SQL",
+  "skill_3":"Git",
+  "skill_4":"JS",
+  "skill_5":"Bugreports",
+  "skill_6":"Checklists"
+}
