@@ -1,5 +1,7 @@
-{"name:Oleksandr",
-"surname:Kryvenko",
-"age:38",
-"pet_name:Shelby",
-"salary:1500"}
+{
+  "name":"Oleksandr",
+  "surname":"Kryvenko",
+  "age":38,
+  "pet_name":"Shelby",
+  "salary":1500
+}
